@@ -20,3 +20,4 @@ Creating an app or any other static pages, Just run the below command in the ter
 ```
 python manage.py startapp app_name
 ```
+After creating an app in django, always add the apps names in the root project setting.py file.
